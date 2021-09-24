@@ -1,7 +1,9 @@
-import { Switch } from 'react-router-dom'
 import './App.css'
-import { protectedRoutes, publicRoutes } from './routes'
+import { Switch } from 'react-router-dom'
+import noAuth from './components/layouts/noAuth'
 import RouteMiddleware from './routes/middleware'
+import vertical from './components/layouts/vertical'
+import { protectedRoutes, publicRoutes } from './routes'
 
 const App = () => {
   return (
