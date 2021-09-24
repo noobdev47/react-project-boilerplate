@@ -33,4 +33,4 @@ const App = () => {
   )
 }
 
-export default App
+export default connect(null, null)(App)

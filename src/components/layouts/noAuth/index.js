@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { withRouter } from 'react-router-dom'
 
 const Layout = ({ children, location, ...rest }) => {
   return (
@@ -14,4 +15,4 @@ Layout.propType = {
   location: PropTypes.object
 }
 
-export default Layout
+export default connect(null, null)(withRouter(Layout))

@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# React Boilerplate for new project intialization
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project includes following packages:
+-> axios: ^0.21.1,
+-> dotenv: ^10.0.0,
+-> formik: ^2.2.9,
+-> moment: ^2.29.1,
+-> prop-types: ^15.7.2,
+-> react: ^17.0.2,
+-> react-dom: ^17.0.2,
+-> react-icons: ^4.2.0,
+-> react-redux: ^7.2.4,
+-> react-router-dom: ^5.2.0,
+-> react-scripts: 4.0.3,
+-> redux: ^4.1.1,
+-> redux-thunk: ^2.3.0,
+-> sass: ^1.38.1,
+-> web-vitals: ^1.1.2",
+-> yup: ^0.32.9
+
+Project has complete redux seyup with thunk.
 
 ## Available Scripts
 
