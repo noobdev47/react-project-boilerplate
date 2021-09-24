@@ -1,5 +1,7 @@
 # React Boilerplate for new project intialization
 
+Any Issues or suggestions are welcome and are advised to be created as issues for better visibility.
+
 This Project includes following packages:
 -> axios: ^0.21.1,
 -> dotenv: ^10.0.0,
